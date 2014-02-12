@@ -4,5 +4,5 @@ Requirements:
 - Node Package Manager
 
 Installation:
-$ npm install
-$ node app.js
+- $ npm install
+- $ node app.js
